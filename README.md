@@ -1,6 +1,8 @@
 # Event Registration System
 
 A simple event registration API with a React frontend.
+# demo video link 
+https://drive.google.com/file/d/1F4TZ-44VEMOwp2tDv1LOQrcfG0FGhc5b/view?usp=drive_link
 
 ## Project Structure
 
