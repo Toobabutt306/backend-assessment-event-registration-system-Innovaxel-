@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "c3e25e81-70ac-4845-8ae3-1550063ad3d9",
+      "eventName": "Techfest",
+      "totalSeats": 23,
+      "availableSeats": 23,
+      "eventDate": "2026-07-10",
+      "registrations": []
+    },
+    {
+      "id": "e260603e-b10a-46e6-86d4-cc365180d837",
+      "eventName": "facultydinner",
+      "totalSeats": 50,
+      "availableSeats": 49,
+      "eventDate": "2026-06-09",
+      
+      "registrations": [
+        {
+          "userName": "usman",
+          "registeredAt": "2026-06-07T06:52:12.299Z"
+        }
+      ]
+    },
+    {
+      "id": "6c661ade-78e3-488d-acf9-e6d3590bff58",
+      "eventName": "technova",
+      "totalSeats": 200,
+      "availableSeats": 199,
+      "eventDate": "2026-06-08",
+      "registrations": [
+        {
+          "userName": "ali",
+          "registeredAt": "2026-06-07T06:52:40.491Z"
+        }
+      ]
+    },
+    {
+      "id": "a11a5258-c80a-4308-8a70-55c5044dec87",
+      "eventName": "Qawalinight",
+      "totalSeats": 500,
+      "availableSeats": 499,
+      "eventDate": "2027-12-08",
+      "registrations": [
+        {
+          "userName": "usman",
+          "registeredAt": "2026-06-07T06:51:55.027Z"
+        }
+      ]
+    },
+    {
+      "id": "c71b2087-2049-4237-ab62-14edc9fef70b",
+      "eventName": "internship",
+      "totalSeats": 20,
+      "availableSeats": 19,
+      "eventDate": "2026-06-30",
+      "registrations": [
+        {
+          "userName": "tooba",
+          "registeredAt": "2026-06-09T07:05:21.870Z"
+        }
+      ]
+    }
+  ]
+}
